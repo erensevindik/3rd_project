@@ -8,7 +8,7 @@ import time
 #new_york_city = 'new_york_city.csv'
 #washington = 'washington.csv'
 ##Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
-
+##Python kullanarak bisiklet paylasim bilgilerini anlamak.Kullanici ile etkilesimli bir ortamda kullanicinin filtre ile bilgileri analiz etmesini saglamak amaciyla yazilmistir.
 def get_city():
     '''Asks the user for a city and returns the filename for that city's bike share data.
     Args:
