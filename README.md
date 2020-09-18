@@ -8,16 +8,21 @@ You can run the script using a Python integrated development environment (IDE) s
 <h2>Datasets</h2>
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
-Start Time (e.g., 2017-01-01 00:07:57)
-End Time (e.g., 2017-01-01 00:20:53)
-Trip Duration (in seconds - e.g., 776)
-Start Station (e.g., Broadway & Barry Ave)
-End Station (e.g., Sedgwick St & North Ave)
-User Type (Subscriber or Customer)
-The Chicago and New York City files also have the following two columns:
+<ul>
+<li>Start Time (e.g., 2017-01-01 00:07:57)</li>
+<li>End Time (e.g., 2017-01-01 00:20:53)</li>
+<li>Trip Duration (in seconds - e.g., 776)</li>
+<li>Start Station (e.g., Broadway & Barry Ave)</li>
+<li>End Station (e.g., Sedgwick St & North Ave)</li>
+<li>User Type (Subscriber or Customer)</li>
+<ul>
 
-Gender
-Birth Year
+<p>The Chicago and New York City files also have the following two columns:</p>
+
+<ul>
+<li>Gender</li>
+<li>Birth Year</li>
+</ul>
 
 <h2>Statistics Computed</h2>
 In this project, the code is written to provide the following information:
